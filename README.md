@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Cahit Ediz Civan. I am a Computer Engineering freshman in Bilkent University.
 <!--
 **Edizc/Edizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
