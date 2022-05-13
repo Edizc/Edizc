@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is Cahit Ediz Civan. I am a Computer Engineering student in Bilkent University.
+Below you on the left is the repository of Solidity smart contracts for an NFT marketplace project I've been working on.
+Below you on the right is the repository of a 2D tower defense game me and 4 other classmates of mine created as a school project.
 <!--
 **Edizc/Edizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
