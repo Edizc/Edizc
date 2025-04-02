@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is Cahit Ediz Civan. I am a Computer Science student at Bilkent University.
-Below, you can find a 2D tower defense game developed with Java and a second-hand sales social network website developed with MERN. Both of them are school projects done with a team of 5.
 <!--
 **Edizc/Edizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
